@@ -1,6 +1,7 @@
 # Horizon Drive assets
 
 Initial asset library for the Horizon Drive Three.js driving game. This folder contains **actual binary files** for the runtime and original source maps used to make their mobile variants. `ASSET_MANIFEST.json` records exact paths, byte sizes, per-file SHA-256 digests, provenance/license and commit-pinned raw links.
+The pushed binary-content commit on `main` is `caf7c1caf13918b5647932e788918e19bd5b8830`; the manifest's raw URLs use that immutable SHA.
 
 ## Inventory
 
