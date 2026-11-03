@@ -9,5 +9,7 @@ The initial published asset set for **Horizon Drive**, a Three.js forest-road dr
 - [Browse the game asset guide](HorizonDrive/README.md)
 - [Read source and licensing notes](HorizonDrive/SOURCES_AND_LICENSES.md)
 - [Per-file SHA-256, license and verified direct-download manifest](HorizonDrive/ASSET_MANIFEST.json)
+- [CSV file manifest (sizes, hashes, licenses and verified raw URLs)](Docs/ASSET_MANIFEST.csv)
+- [Central source and license notes](Docs/SOURCES_AND_LICENSES.md)
 
 New projects should use their own folder and preserve a file-level source/license record. Avoid committing secrets or downloaded media without a valid redistribution basis.

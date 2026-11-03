@@ -12,7 +12,9 @@ The pushed binary-content commit on `main` is `caf7c1caf13918b5647932e788918e19b
 - `assets/textures/mobile/` — filtered 512px runtime derivatives grouped by material, preserving the larger source maps separately.
 - `assets/share/favicon.png` and `assets/share/og.png` — original game mark and generated promotional image. The cover is social artwork, **not** an in-game model, material or scene substitute.
 - `SOURCES_AND_LICENSES.md` — authoritative publisher links, rights and file-to-use notes.
-- `ASSET_MANIFEST.json` — per-file verifiable metadata; raw URLs are pinned to the immutable asset commit recorded there.
+- `ASSET_MANIFEST.json` — per-file JSON metadata; raw URLs are pinned to the immutable asset commit recorded there.
+- [`../Docs/ASSET_MANIFEST.csv`](../Docs/ASSET_MANIFEST.csv) — repository-wide CSV record of all 31 Horizon Drive files, with source/license, size, digest and verified raw links.
+- [`../Docs/SOURCES_AND_LICENSES.md`](../Docs/SOURCES_AND_LICENSES.md) — companion provenance and rights summary.
 
 ## Usage notes
 
